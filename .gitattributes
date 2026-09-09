@@ -1,0 +1,11 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+or filter=lfs diff=lfs merge=lfs -text
+whatever filter=lfs diff=lfs merge=lfs -text
+extensions filter=lfs diff=lfs merge=lfs -text
+you filter=lfs diff=lfs merge=lfs -text
+use filter=lfs diff=lfs merge=lfs -text
